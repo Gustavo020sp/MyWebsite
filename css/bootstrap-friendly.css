@@ -12718,3 +12718,11 @@ p {
 .toggle {
     cursor: pointer;
 }
+
+.portuguese {
+    display: block;
+}
+
+.english {
+    display: none;
+}
