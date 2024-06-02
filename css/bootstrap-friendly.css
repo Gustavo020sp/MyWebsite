@@ -8916,9 +8916,31 @@ textarea.form-control-lg {
     background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
 }
 
+.bg-third {
+    --bs-bg-opacity: 1;
+    background-image: url('../images/onlystars.jpg');
+    background-size: cover; /* This will ensure the background image covers the entire element */
+    background-position: center; /* This will center the background image */
+}
+
+.bg-fourth {
+    --bs-bg-opacity: 1;
+    background-image: url('../images/solarsystem1.jpg');
+    background-size: cover; /* This will ensure the background image covers the entire element */
+    background-position: center; /* This will center the background image */
+}
+
+.bg-fifth {
+    --bs-bg-opacity: 1;
+    background-image: url('../images/solarsystem2.jpg');
+    background-size: cover; /* This will ensure the background image covers the entire element */
+    background-position: center; /* This will center the background image */
+}
+
+
 .bg-secondary {
     --bs-bg-opacity: 1;
-    background-color: rgba(var(--bs-secondary-rgb), var(--bs-bg-opacity)) !important;
+    background-color: darkorange !important;
 }
 
 .bg-success {
@@ -12457,11 +12479,11 @@ html {
     }
 
     .divider-custom.divider-light .divider-custom-line {
-        background-color: #fff;
+        background-color: darkorange;
     }
 
     .divider-custom.divider-light .divider-custom-icon {
-        color: #fff;
+        color: darkorange;
     }
 
 .btn-xl {
@@ -12666,7 +12688,7 @@ html {
     padding: 10px;
     width: 100px;
     height: 52px;
-    background-color: lightseagreen;
+    background-color: green;
     text-align: inherit;
     border-radius: 30px;
     border: 2px RGBA(44, 62, 80, var(--bs-bg-opacity, 1)) !important;
