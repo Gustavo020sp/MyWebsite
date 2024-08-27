@@ -13,16 +13,6 @@ Página Inicial: Apresentação breve e visual do meu perfil profissional, com a
 Sobre Mim: Uma seção detalhada sobre minha experiência, formação e habilidades.
 Projetos: Galeria com meus principais projetos, com descrições e links para os repositórios relevantes.
 Contato: Formulário de contato simples para que visitantes possam entrar em contato comigo diretamente pelo site.
-Como Utilizar
-Você pode clonar este repositório e executar o site localmente para ver como ele foi construído.
-
-## Clone o repositório: 
-git clone https://github.com/seuusuario/seu-portfolio.git
-Navegue até o diretório do projeto:
-bash
-Copy code
-cd seu-portfolio
-Abra o arquivo index.html no seu navegador preferido para visualizar o site.
 
 ## Estrutura do Projeto
 /css: Contém os arquivos CSS personalizados, incluindo as customizações do Bootstrap.
